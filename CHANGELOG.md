@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 
 - `sql/01_setup.sql` — Database, role, and grant creation
+- `sql/01b_semantic_view.sql` — Base tables, TPCH data load, semantic view
+- `sql/01c_deploy_agent.sql` — Cortex Agent deployment
 - `sql/02_rss_scope.sql` — RSS scope with 5 allowed privileges (no blocked_roles)
 - `sql/03_session_policy.sql` — Session policy creation and account-level attachment
 - `sql/04_test_governance.sql` — 4 validation tests with verified expected results
