@@ -54,5 +54,5 @@ CREATE OR REPLACE RESTRICT SESSION SCOPE GOVERNANCE_DB.RSS.RESTRICT_SESSION_SCOP
 DESCRIBE RESTRICT SESSION SCOPE GOVERNANCE_DB.RSS.RESTRICT_SESSION_SCOPE;
 
 -- ============================================================================
--- NEXT: Deploy semantic view + agent via CoCo, then execute sql/03_session_policy.sql
+-- NEXT: Execute sql/03_session_policy.sql
 -- ============================================================================
