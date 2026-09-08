@@ -66,5 +66,5 @@ GRANT USAGE ON DATABASE AGENT_SANDBOX_DB        TO ROLE AGENT_USER;
 GRANT USAGE ON SCHEMA   AGENT_SANDBOX_DB.PUBLIC TO ROLE AGENT_USER;
 
 -- ============================================================================
--- NEXT: Execute sql/02_rss_scope.sql
+-- NEXT: Execute sql/01b_semantic_view.sql
 -- ============================================================================
